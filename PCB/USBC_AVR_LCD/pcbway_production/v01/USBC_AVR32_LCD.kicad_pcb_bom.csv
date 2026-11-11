@@ -1,0 +1,20 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator,PN_LCSC,PN_Digikey,Manufacturer,PN_Manufacturer,LCSC PN,Sim.Pins,MANUFACTURER
+"C1, C10, C11, C12, C13, C3, C5, C7",8,1uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,,,,smt,Unpolarized capacitor,SMD_2terminal_chip_molded,C77009,490-10017-1-ND,Murata Electronics,GRM155R61E105KA12D,C77009,,
+C2,1,4.7uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,,,,smt,Unpolarized capacitor,SMD_2terminal_chip_molded,C23733,1276-1482-1-ND,Samsung Electro-Mechanics,CL05A475MP5NRNC,C23733,,
+"C4, C6, C8, C9",4,100nF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,,,,smt,Unpolarized capacitor,SMD_2terminal_chip_molded,C105882,311-3342-1-ND,YAGEO,CC0402KRX5R9BB104,C105882,,
+"D1, D2",2,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,,,smt,3V2 20mA,SMD_2terminal_chip_molded,C497940,732-12013-1-ND,Würth Elektronik,150060BS55040,C497940,1=K 2=A,
+F1,1,Polyfuse 500mA,Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,,smt,"Resettable fuse, polymeric positive temperature coefficient",SMD_2terminal_chip_molded,C207022,F2772CT-ND,,0805L050WR,,,Littelfuse
+J1,1,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,,,,smt,USB 2.0-only 14P Type-C Receptacle connector,,C165948,,Korean Hroparts Elec,TYPE-C-31-M-12,C165948,,
+J3,1,SM08B-GHS-TB,JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal,,,,smt,,connector/SMD_single_row_plus_mounting_pad,,455-1570-1-ND,,SM08B-GHS-TB,,,
+"J4, J5, J6, J7",4,Conn_01x04,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,,,,smt,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",connector/SMD_single_row_plus_mounting_pad,,,,,,,
+"R1, R10, R11",3,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,,,,smt,,SMD_2terminal_chip_molded,"[R1]C851816; [R10,R11]C114765","[R1]YAG1249CT-ND; [R10,R11]311-22.0LRCT-ND",YAGEO,"[R1]RC0402FR-0710KP; [R10,R11]RC0402FR-0722RL","[R1]C851816; [R10,R11]C114765",,
+"R2, R3",2,5k1,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,,,,smt,,C212346,C105872,311-5.10KLRCT-ND,YAGEO,RC0402FR-075K1L,C105872,,
+"R4, R5",2,150R,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,,,,smt,,SMD_2terminal_chip_molded,C4258677,13-RC0402FR-13150RLCT-ND,YAGEO,RC0402FR-13150RL,C4258677,,
+"R6, R7",2,22R,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,,,,smt,,SMD_2terminal_chip_molded,C114765,311-22.0LRCT-ND,YAGEO,RC0402FR-0722RL,C114765,,
+"R8, R9",2,4k7,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,,,,smt,,SMD_2terminal_chip_molded,C105870,311-4.7KJRCT-ND,,,C105870,,
+SW1,1,RST,Switch SMD STO,,,,smt,,,C25168823,2508-R-667995CT-ND,Mitsumi,R-667995,C25168823,,
+U1,1,AP2112K-3.3,SOT-23-5,,,,smt,"600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5",package/gullwing,,,,,,,
+U2,1,USBLC6-2SC6,SOT-23-6,,,,smt,"Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",package/gullwing,C7519,497-5235-1-ND,,USBLC6-2SC6,,,STMicroelectronics
+U3,1,USBC_AVR32_LCD_v0.1,logo_QUT,,,,tht,,,,,,,,,
+U4,1,AVR64DU32-I/PT,TQFP32_PT_MCH,,,,smt,,,,150-AVR64DU32-I/PT-ND,Microchip Technology,AVR64DU32-I/PT,,,
+U5,1,W25Q128JVS,SOIC-8_5.3x5.3mm_P1.27mm,,,,smt,"128Mbit / 16MiB Serial Flash Memory, Standard/Dual/Quad SPI, 2.7-3.6V, SOIC-8",package/gullwing,,256-W25Q128JVSIMTRCT-ND,Winbond Electronics,W25Q128JVSIM TR,,,
